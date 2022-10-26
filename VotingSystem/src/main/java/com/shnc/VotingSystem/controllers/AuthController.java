@@ -29,7 +29,7 @@ import java.util.Collections;
 @RestController
 @RequestMapping("/auth")
 public class AuthController {
-
+//git asdfasd
 	@Autowired
 	private AuthenticationManager authenticationManager;
 
